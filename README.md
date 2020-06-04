@@ -66,4 +66,5 @@ I prefer an “ask assertive” method versus a “tell assertive” method. If 
 
 This document is a living and breathing thing and likely missing large items. I will update it frequently and would appreciate your feedback.
 
+Thanks,
 Dustin
