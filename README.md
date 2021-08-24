@@ -66,14 +66,16 @@ When I ask you to do something that feels poorly defined you should ask me for b
 
 I prefer an “ask assertive” method versus a “tell assertive” method. If you’d like me to do something, asking is usually a better way than telling me you need it.  I respond incredibly well to ask assertiveness (“Dustin, can you help with X?”). I do not respond as well to being told what to do (“Dustin, I need you to do X.”) I tend to resist doing things that are told to me and at the very best am not excited about getting them done.  This is something I’m working on. :)
 
+For what it's worth I have an <a href="https://github.com/dustinarms/AboutMe/blob/master/DA_InsightsProfile.pdf">Insights profile</a>, if you would find that information interesting you can always read it.  Feel free to ask me questions about it if you do.
+
 ## Personal Tidbits
 I'm a father to three children, two boys and one girl.  They range in ages from 16 to ~21 months old (this is probably already out of date!).  They are a lot like me and so very different at the same time and I find that fascinating to think about and marvel at.
 
-I have two dogs (for now) and a fish.  Doobie, the chahuahua, is the alpha dog.  He's 12.  Boss, an amercian bully, is what we loving refer to as the land manatee.  We likely will be adding another dog to the mix, but we are holding off until we buy/build a new house.  He's 6.  We also have two goldfish, Barry and Tigger.
+I have two dogs (for now) and two fish.  Doobie, the chahuahua, is the alpha dog.  He's 12.  Boss, an amercian bully, is what we loving refer to as the land manatee.  He's 6.  We likely will be adding another dog to the mix, but we are holding off until we buy/build a new house.  We also have two goldfish, Barry and Tigger.
 
-I am a Jeep and outdoor enthusiast.  I love love love my Jeep and using it to travel through the outdoors and camp (overland).  The jeep has it's own instagram account (@sasquatch_overland) and I spend a lot of time working on it and adventuring in it.
+I am a Jeep and outdoor enthusiast.  I love love love my Jeep and using it to travel through the outdoors and camp (overland).  The Jeep has it's own instagram account (@sasquatch_overland) and I spend a lot of time working on it and adventuring in it.
 
-I play golf and I am blessed to live in an area of the country where I can play golf all year long (alhtough not as nice in the winter as some locations).  I'm not terribly good at it, but I do enjoy the parallels to life that the game has and it's where a lot of my north star principles originated. :)
+I play golf and I am blessed to live in an area of the country where I can play golf all year long (although not as nice in the winter as some locations).  I'm not terribly good at it, but I do enjoy the parallels to life that the game has and it's where a lot of my north star principles originated. :)
 
 This document is a living and breathing thing and likely missing large items. I will update it frequently and would appreciate your feedback.
 
