@@ -66,7 +66,7 @@ When I ask you to do something that feels poorly defined you should ask me for b
 
 I prefer an “ask assertive” method versus a “tell assertive” method. If you’d like me to do something, asking is usually a better way than telling me you need it.  I respond incredibly well to ask assertiveness (“Dustin, can you help with X?”). I do not respond as well to being told what to do (“Dustin, I need you to do X.”) I tend to resist doing things that are told to me and at the very best am not excited about getting them done.  This is something I’m working on. :)
 
-For what it's worth, I have an <a href="https://github.com/dustinarms/AboutMe/blob/master/DA_InsightsProfile.pdf">Insights profile</a>.  If you would find that information interesting feel free to read it.  If you do read it, let me know if you have any questions.
+For what it's worth, I have a couple of Insights profiles. The <a href="https://github.com/dustinarms/AboutMe/blob/master/DA_InsightsProfile_2020.pdf">most recent one from 2020</a> and another <a href="https://github.com/dustinarms/AboutMe/blob/master/DA_InsightsProfile_2018.pdf">from 2018</a>.  If you would find that information interesting feel free to read it.  If you do read it, let me know if you have any questions.
 
 ## Personal Tidbits
 I'm a father to three children, two boys and one girl.  They range in ages from 16 to ~21 months old (this is probably already out of date!).  They are a lot like me and so very different at the same time and I find that fascinating to think about and marvel at.
