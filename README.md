@@ -17,6 +17,8 @@ I work a bit on the weekends. This is my choice. I do not expect that you are go
 ## North Star Principles
 <b>People first.</b>  I believe if a person is happy and loves what they are doing they can produce amazing results.  It is my job to optimize for this and help people love what they do here.  My goal is to create ideological diversity on the team as that is key to having an effective team.  All perspectives are relevant, and my goal is to develop productive humans.
 
+<b>Wellness</b>. I believe if we are well, we are our best selves.  This is true both at work and in our personal lives.  Wellness to me means taking care of your physical, emotional, and spiritual wellness.  Self-care is important to ensure that we bring our best selves to work and personal lives.  It's more than just health to me.  It's striving to live life fully and in a way that allows you to become the best version of you that your current potential and circumstances will allow.
+
 <b>Transparency.</b>  I believe in being transparent.  So, if you have a question please ask.  If the answer is something that I cannot share at the time, I will be honest about it.  I do not believe in keeping information away from anyone, but I do feel that topics and concepts that have not been fully thought through can cause more harm than good.
 
 <b>Integrity.</b>  I believe that you cannot build trust without integrity.  Trust is defined as the sum of credibility, reliability, and intimacy divided by a person’s self-motivations. Integrity is key to building that credibility and reliability as well as being genuine in those moments being real (intimacy).
