@@ -29,8 +29,7 @@ I work a bit on the weekends. This is my choice. I do not expect that you are go
 
 <b>Improvise.</b>  Improvisation is what makes people successful.  Whether in finish carpentry or software development, improvisation can turn a certain failure into an overwhelming success.  Improvisation is a process to making something.  There are seven skills to improvising.  Play, let yourself fail, listen, say yes, say yes and, play the game, relax and have fun.  This process can be summed up by a TEDx talk from Victoria by Dave Morris (<a href="https://www.youtube.com/watch?v=MUO-pWJ0riQ">Dave Morris:  Tedx Victoria)</a>.  I believe there are a lot of parallels to everyday work life in this talk.
 
-<b>Continuous improvement.</b>  Every morning I tell my kids two things… “Win the day” and “Do great things”.  I don’t expect them to do outrageous things during the day, but what I’m trying to instill in them is to be great on a day to day level and you’ll find you can accomplish a lot of things over time.  
-I believe in that the compounding benefits of continuously fixing small things creates amazing results.  Quality assurance is everyone’s responsibility and there are improvements to be made everywhere… always. 
+<b>Continuous improvement.</b>  Every morning I tell my kids two things… “Win the day” and “Do great things”.  I don’t expect them to do outrageous things during the day, but what I’m trying to instill in them is to be great on a day to day level and you’ll find you can accomplish a lot of things over time.  I believe in that the compounding benefits of continuously fixing small things creates amazing results.  Quality assurance is everyone’s responsibility and there are improvements to be made everywhere… always. 
 
 <b>Assume positive intent.</b>  I try to start with an assumption of positive intent for all involved. This has worked out well for me over my career.
 
@@ -70,15 +69,15 @@ I prefer an “ask assertive” method versus a “tell assertive” method. If 
 For what it's worth, I have a couple of Insights profiles. The <a href="https://github.com/dustinarms/AboutMe/blob/master/DA_InsightsProfile_2020.pdf">most recent one from 2020</a> and another <a href="https://github.com/dustinarms/AboutMe/blob/master/DA_InsightsProfile_2018.pdf">from 2018</a>.  If you would find that information interesting feel free to read it.  If you do read it, let me know if you have any questions.
 
 ## Personal Tidbits
-I'm a father to three children, two boys and one girl.  They range in ages from 16 to ~21 months old (this is probably already out of date!).  They are a lot like me and so very different at the same time and I find that fascinating to think about and marvel at.
+I'm a father to three children, two boys and one girl.  They range in ages from 17 to 3 years old (this is probably already out of date!).  They are a lot like me and so very different at the same time and I find that fascinating to think about and marvel at.
 
-I have two dogs (for now) and two fish.  Doobie, the chahuahua, is the alpha dog.  He's 12.  Boss, an amercian bully, is what we loving refer to as the land manatee.  He's 6.  We likely will be adding another dog to the mix, but we are holding off until we buy/build a new house.  We also have two goldfish, Barry and Tigger.
+I have one dog.  His name is Boss and he is an amercian bully.  We loving refer to him as the land manatee.  He's 8.  We likely will be adding another dog to the mix, but we are holding off until we buy/build a new house.
 
 I am a Jeep and outdoor enthusiast.  I love love love my Jeep and using it to travel through the outdoors and camp (overland).  The Jeep has it's own instagram account (@sasquatch_overland) and I spend a lot of time working on it and adventuring in it.
 
 I play golf and I am blessed to live in an area of the country where I can play golf all year long (although not as nice in the winter as some locations).  I'm not terribly good at it, but I do enjoy the parallels to life that the game has and it's where a lot of my north star principles originated. :)
 
-This document is a living and breathing thing and likely missing large items. I will update it frequently and would appreciate your feedback.
+This document is a living and breathing thing and likely missing large items. I will update it over time and would appreciate your feedback.
 
 Thanks,
 Dustin
