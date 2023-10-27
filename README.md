@@ -69,13 +69,13 @@ I prefer an “ask assertive” method versus a “tell assertive” method. If 
 For what it's worth, I have a couple of Insights profiles. The <a href="https://github.com/dustinarms/AboutMe/blob/master/DA_InsightsProfile_2020.pdf">most recent one from 2020</a> and another <a href="https://github.com/dustinarms/AboutMe/blob/master/DA_InsightsProfile_2018.pdf">from 2018</a>.  If you would find that information interesting feel free to read it.  If you do read it, let me know if you have any questions.
 
 ## Personal Tidbits
-I'm a father to three children, two boys and one girl.  They range in ages from 17 to 3 years old (this is probably already out of date!).  They are a lot like me and so very different at the same time and I find that fascinating to think about and marvel at.
+I'm a father to three children, two boys and one girl.  They range in ages from 18 to 4 years old (this is probably already out of date!).  They are a lot like me and so very different at the same time and I find that fascinating to think about and marvel at.
 
-I have one dog.  His name is Boss and he is an amercian bully.  We loving refer to him as the land manatee.  He's 8.  We likely will be adding another dog to the mix, but we are holding off until we buy/build a new house.
+We have two dogs.  A 10 year old American Bully named Boss.  We loving refer to him as the land manatee.  We also have an 8 month old Daniff (Great Dane and English Mastiff mix).  Her name is Pneuma.
 
-I am a Jeep and outdoor enthusiast.  I love love love my Jeep and using it to travel through the outdoors and camp (overland).  The Jeep has it's own instagram account (@sasquatch_overland) and I spend a lot of time working on it and adventuring in it.
+I am a Jeep and outdoor enthusiast.  I love my Jeep and using it to travel through the outdoors and camp (overland).  
 
-I play golf and I am blessed to live in an area of the country where I can play golf all year long (although not as nice in the winter as some locations).  I'm not terribly good at it, but I do enjoy the parallels to life that the game has and it's where a lot of my north star principles originated. :)
+I play golf and I am blessed to live in an area of the country where I can play golf all year long (although not as nice in the winter as some locations).  I'm not terribly good at it, but I do enjoy the parallels to life that the game has and it's where a lot of my north star principles originated from.
 
 This document is a living and breathing thing and likely missing large items. I will update it over time and would appreciate your feedback.
 
