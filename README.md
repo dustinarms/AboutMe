@@ -62,18 +62,18 @@ I am an extrovert, however prolonged exposure to humans is exhausting for me and
 
 I like to think things through before contributing so if my initial reaction to something is silence, please do not read into it. I don't like to repeat anything that's already been said so when I agree you may only hear a plus one or see me nodding. :)
 
-When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
-
-I prefer an “ask assertive” method versus a “tell assertive” method. If you’d like me to do something, asking is usually a better way than telling me you need it.  I respond incredibly well to ask assertiveness (“Dustin, can you help with X?”). I do not respond as well to being told what to do (“Dustin, I need you to do X.”) I tend to resist doing things that are told to me and at the very best am not excited about getting them done.  This is something I’m working on. :)
+When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. Feel free to clarify with me.
 
 For what it's worth, I have a couple of Insights profiles. The <a href="https://github.com/dustinarms/AboutMe/blob/master/DA_InsightsProfile_2020.pdf">most recent one from 2020</a> and another <a href="https://github.com/dustinarms/AboutMe/blob/master/DA_InsightsProfile_2018.pdf">from 2018</a>.  If you would find that information interesting feel free to read it.  If you do read it, let me know if you have any questions.
 
 ## Personal Tidbits
 I'm a father to three children, two boys and one girl.  They range in ages from 18 to 4 years old (this is probably already out of date!).  They are a lot like me and so very different at the same time and I find that fascinating to think about and marvel at.
 
-We have two dogs.  A 10 year old American Bully named Boss.  We loving refer to him as the land manatee.  We also have an 8 month old Daniff (Great Dane and English Mastiff mix).  Her name is Pneuma.
+We have two dogs.  A 10 year old American Bully named Boss.  We loving refer to him as the land manatee.  We also have a 11 month old Daniff (Great Dane and English Mastiff mix).  Her name is Pneuma.
 
 I am a Jeep and outdoor enthusiast.  I love my Jeep and using it to travel through the outdoors and camp (overland).  
+
+I am a DIY enthusiast and likely have 3 - 5 project going in some stage at one time.  Sometimes, I do bite of more than I can chew in this regard.
 
 I play golf and I am blessed to live in an area of the country where I can play golf all year long (although not as nice in the winter as some locations).  I'm not terribly good at it, but I do enjoy the parallels to life that the game has and it's where a lot of my north star principles originated from.
 
